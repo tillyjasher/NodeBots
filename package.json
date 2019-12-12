@@ -9,6 +9,7 @@
   "author": "Tilly Asher",
   "license": "ISC",
   "dependencies": {
-    "johnny-five": "^1.3.1"
+    "johnny-five": "^1.3.1",
+    "node-gyp": "^6.0.1"
   }
 }
